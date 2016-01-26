@@ -19,9 +19,9 @@ public class Demo {
 
         Car car = (Car) objectCreator.setPrivates(Car.class, hm);
 
-        System.out.println(car.getVIN());
-        System.out.println(car.getColor());
-        System.out.println(car.getPrice());
+//        System.out.println(car.getVIN());
+//        System.out.println(car.getColor());
+//        System.out.println(car.getPrice());
 
     }
 
